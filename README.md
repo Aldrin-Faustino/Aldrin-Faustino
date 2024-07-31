@@ -1,5 +1,5 @@
 ## 👋 Olá me chamo Aldrin, sou de São Paulo capital. 
-<p>com grande inclinação para a tecnologia, tomei a decisão de migrar para essa área fazendo alguns cursos como análise e desenvolvimento de sistemas e sempre pesquisando diferentes ferramentas e métodos no intuito de solucionar diversos problemas. Diante disso, compreendi que o apego à determinada tecnologia ou área específica se torna inviável, visto as constantes mudanças no mercado, provir de uma mente aberta para adaptação é essencial tanto no crescimento profissional como pessoal.</p>
+<p> Com grande inclinação para a tecnologia, tomei a decisão de migrar para essa área fazendo alguns cursos como análise e desenvolvimento de sistemas e sempre pesquisando diferentes ferramentas e métodos no intuito de solucionar diversos problemas. Diante disso, compreendi que o apego à determinada tecnologia ou área específica se torna inviável, visto as constantes mudanças no mercado, provir de uma mente aberta para adaptação é essencial tanto no crescimento profissional como pessoal.</p>
 
 ##
 
